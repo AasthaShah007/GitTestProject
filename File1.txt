@@ -4,6 +4,9 @@ Change :-> For logout features
 
 Change :-> for login features
 
+Change :-> Some feature by another teammate
+
 Change :-> To fix bug1
 
-Change :-> Some feature by another teammate
+Change :-> To fix bug2
+
