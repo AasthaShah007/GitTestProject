@@ -1,5 +1,7 @@
-COde to implement CR1
+Code to implement CR1
 
 change for testing stash
 
 Change to push on local
+
+Change by teammate on remote repository
