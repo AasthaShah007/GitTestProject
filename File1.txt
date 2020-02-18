@@ -1,12 +1,13 @@
 Hello World!!
 
-Change :-> For logout features
+1. Change :-> For logout features
 
-Change :-> for login features
+2. Change :-> for login features
 
-Change :-> Some feature by another teammate
+3. Change :-> Some feature by another teammate
 
-Change :-> To fix bug1
+4. Change :-> To fix bug1
 
-Change :-> To fix bug2
+5. Change :-> To fix bug2
 
+6. Change :-> For rebasing, change done by some teammate
